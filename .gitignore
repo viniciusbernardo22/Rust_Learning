@@ -1,7 +1,5 @@
 
-a3/target/.rustc_info.json
-a2/target/.rustc_info.json
-a1/target/.rustc_info.json
+**/target
 .vscode/settings.json
 */target
 .gitignore
