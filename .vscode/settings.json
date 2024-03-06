@@ -3,5 +3,7 @@
         ".\\a1\\Cargo.toml",
         ".\\a2\\Cargo.toml",
         ".\\a3\\Cargo.toml",
+        ".\\a4\\Cargo.toml",
+        ".\\a5\\Cargo.toml",
     ]
 }
